@@ -1,4 +1,4 @@
 # simplecppconsolegame
 simeplecppconsolegame
 
-just simple car console game
+i just want to write simple console game with c++ for fun.
